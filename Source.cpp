@@ -5,6 +5,7 @@ int tong(int a, int b){
 int c=a+b:
 return c;
 };
+int trungbinhcong()inta, int b);
 int hieu(int a, int b);
 int tich(int a, int b);
 float thuong(int a, int b);
